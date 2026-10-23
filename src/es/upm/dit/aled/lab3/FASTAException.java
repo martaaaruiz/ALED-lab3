@@ -1,5 +1,7 @@
 package es.upm.dit.aled.lab3;
 //comit semanal, af
+
+// 
 /**
  * Exception to wrap errors especific to the processing of FASTA files.
  * 
