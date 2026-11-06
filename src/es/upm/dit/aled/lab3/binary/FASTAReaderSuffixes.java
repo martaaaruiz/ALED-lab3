@@ -156,4 +156,6 @@ public class FASTAReaderSuffixes extends FASTAReader {
 			System.out.println("No he encontrado " + args[1] + " en ningún sitio.");
 		System.out.println("Tiempo total: " + (System.nanoTime() - t1));
 	}
-}
+}  
+
+// 
